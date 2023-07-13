@@ -1,0 +1,7 @@
+bilangan1 = int(input("masukan bilangan "))
+bilangan2 = int(input("masukan bilangan "))
+penjumlahan = (bilangan1 + bilangan2)
+pengurangan = (bilangan1 - bilangan2)
+pembagian = (bilangan1 // bilangan2)
+pengalian = (bilangan1 * bilangan2)
+print("hasil penjumlahan",penjumlahan,"hasil pengurangan",pengurangan,"hasil pembagian", pembagian, "hasil pegalian", pengalian)

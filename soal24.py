@@ -1,0 +1,5 @@
+panjang = int(input("masukan panjang"))
+lebar = int(input("masukan lebar"))
+keliling = (panjang * 2) + (lebar * 2 )
+luas = (panjang * lebar)
+print("keliling",keliling,"luas",luas)

@@ -1,0 +1,5 @@
+tinggi = float(input("masukan tinggi badan m"))
+berat = float(input("masukan berat badan"))
+tinggi_badan = (tinggi * tinggi)
+bmi = (tinggi_badan // berat)
+print(bmi)
